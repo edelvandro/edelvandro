@@ -4,19 +4,18 @@
 
 
 <h3> :man: &nbsp;Sobre mim </h3>
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
+  
 - 🎓 &nbsp; Recém formado em **Análise e Desenvolvimento de Sistemas**.
 - 🌱 &nbsp; Me especializando em desenvolvimento **Front End**.
 - :rocket: &nbsp;Sendo **mentorado pelo Projeto Vem Pra TI**.
+  
 
-<br><br><br><br><br>
+<br>
 
 <div style="display: inline_block">
   <a href="https://github.com/edelvandro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edelvandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edelvandro&layout=compact&langs_count=7&theme=dracula">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=edelvandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edelvandro&layout=compact&langs_count=7&theme=dracula">
 </div>
   
  <br>
@@ -43,7 +42,6 @@
    <img align="center" alt="ed-trello" height="40" width="80" src="http://kanbanmps.com/beta/wp-content/uploads/2017/10/Kanban-Logo.png">    
   </div>
   
-  <br>
   
    ### Contatos 
 
@@ -52,3 +50,4 @@
   <a href="https://www.linkedin.com/in/edelvandro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://api.whatsapp.com/send?phone=5519991043580" alt="WhatsApp">
   <img alt="ed-WhatsApp" height="28" width="100" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519991043580&text=Entre em Contato"></a>
+  </div>
