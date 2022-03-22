@@ -4,13 +4,11 @@
 
 
 <h3> :man: &nbsp;Sobre mim </h3>
-  
+
+ 
 - 🎓 &nbsp; Recém formado em **Análise e Desenvolvimento de Sistemas**.
 - 🌱 &nbsp; Me especializando em desenvolvimento **Front End**.
-- :rocket: &nbsp;Sendo **mentorado pelo Projeto Vem Pra TI**.
-  
-
-<br>
+- :rocket: &nbsp;Sendo **mentorado pelo Projeto Vem Pra TI**. 
 
 <div style="display: inline_block">
   <a href="https://github.com/edelvandro">
@@ -20,16 +18,22 @@
   
  <br>
   
+ <a href="https://github.com/edelvandro">
+ <img align="right" alt="Ed-pic" height="300" style="border-radius:50px;"
+ src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+  
   ### Tecnologias 
   
-<div style="display: inline_block">
+ <div style="display: inline_block">
   <img align="center" alt="ed-Ubuntu" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="ed-HTML" height="50" width="50 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="ed-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="ed-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="ed-Python" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="ed-SQL" height="50" width="50"src="https://cdn-icons-png.flaticon.com/512/29/29165.png">
-</div>
+ </div>
+  
+
   
   <br>
   
