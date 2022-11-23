@@ -26,12 +26,12 @@
   ### Tecnologias 
   
  <div style="display: inline_block">
-  <img align="center" alt="ed-Ubuntu" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="ed-HTML" height="50" width="50 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="ed-Linux" height="50" width="50" "src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="ed-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="ed-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="ed-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="ed-Python" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="ed-SQL" height="50" width="50"src="https://cdn-icons-png.flaticon.com/512/29/29165.png">
+  <img align="center" alt="ed-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="ed-SQL" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/29/29165.png">
  </div>
   
 
