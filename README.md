@@ -6,10 +6,10 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
  
-- 🎓 &nbsp; Recém formado em **Análise e Desenvolvimento de Sistemas**.
+- 🎓 &nbsp; Graduado em **Análise e Desenvolvimento de Sistemas**.
 - 🌱 &nbsp; Me especializando em desenvolvimento **Front End**.
 - :rocket: &nbsp;Sendo **mentorado pelo Projeto Vem Pra TI**. 
-- :rocket: &nbsp; Participando da **Formação Oracle ONE com parceria da Alura**. 
+
 
 <div style="display: inline_block">
   <a href="https://github.com/edelvandro">
