@@ -32,6 +32,7 @@
   <img align="center" alt="ed-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="ed-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="ed-SQL" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/29/29165.png">
+  <img align="center" alt="ed-trello" height="40" width="80" src="http://kanbanmps.com/beta/wp-content/uploads/2017/10/Kanban-Logo.png"
  </div>
   
 
