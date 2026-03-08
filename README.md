@@ -34,10 +34,8 @@
    <img align="center" alt="ed-vsCode" height="38" width="38"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
    <img align="center" alt="ed-git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
    <img align="center" alt="ed-github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
-   <img align="center" alt="ed-scrum" height="60" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVotLFx-mnmULKiHC8VbYwjIHAs8MnKSvrOw&usqp=CAU">
+   <img align="center" alt="Scrum" height="30" src="https://img.shields.io/badge/Scrum-E4A221?style=for-the-badge&logo=jira&logoColor=white">
    <img align="center" alt="ed-trello" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">    
-     
-  </div>
   
             
    ### Contatos 
