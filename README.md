@@ -2,21 +2,13 @@
 ## Sejam muito bem vindo ao meu Github.
 
 
-
 <h3> :man: &nbsp;Sobre mim </h3>
 
  
 - 🎓 &nbsp; Graduado em **Análise e Desenvolvimento de Sistemas**.
 - 🌱 &nbsp; Me especializando em  **Engenharia de Dados e Cloud Computing**.
-- :rocket: &nbsp;Sendo **mentorado pelo AWS re/Start, Escola da Nuvem - 2024**. 
 
 
-<div style="display: inline_block">
-  <a href="https://github.com/edelvandro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edelvandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edelvandro&layout=compact&langs_count=7&theme=dracula">
-</div>
-  
  <br>
   
  <a href="https://github.com/edelvandro">
@@ -30,13 +22,11 @@
   <img align="center" alt="ed-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
   <img align="center" alt="ed-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="ed-SQL" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/29/29165.png">
+  <img align="center" alt="Excel" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732220.png"> Excel
   <img align="center" alt="ed-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="ed-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
- 
- </div>
-  
 
-  
+
   <br>
   
   ### Ferramentas 
