@@ -12,8 +12,9 @@
  <br>
   
  <a href="https://github.com/edelvandro">
- <img align="right" alt="Ed-pic" height="250" style="border-radius:50px;"
- src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+ <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<br><br>
+ 
   
   ### Tecnologias 
   
